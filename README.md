@@ -9,7 +9,7 @@
 
 ---
 ## Installation
-- Python 
+- Python
 - 추가적인 라이브러리 설치는 필요하지 않습니다.
 
 ---
